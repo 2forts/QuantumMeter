@@ -18,7 +18,8 @@ measure q[2] -> c[2];
 
 analyzer = QuantumCostAnalyzer(custom_costs, custom_delays)
 analyzer.load_circuit_from_qasm(qasm_str)
-cost, delay = analyzer.get_cost_and_delay()
+cost, delay, num_qubits = analyzer.get_cost_and_delay()
 
-print(f"Coste cuántico: {cost}")
+print(f"Quantum cost: {cost}")
 print(f"Delay: {delay}")
+print(f"Number of qubits: {num_qubits}")
