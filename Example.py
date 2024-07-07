@@ -19,7 +19,9 @@ measure q[2] -> c[2];
 analyzer = QuantumCostAnalyzer(custom_costs, custom_delays)
 analyzer.load_circuit_from_qasm(qasm_str)
 cost, delay, num_qubits = analyzer.get_cost_and_delay()
+gate_counts = analyzer.get_gate_counts()
 
 print(f"Quantum cost: {cost}")
 print(f"Delay: {delay}")
 print(f"Number of qubits: {num_qubits}")
+print("Quantum gate counter:", gate_counts)
