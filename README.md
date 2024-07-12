@@ -6,7 +6,7 @@ This repository contains all the written code for the paper "blablabla". It allo
 
 The code is written in Python. These libraries are necessary:
 
-##Files included:
+## Files included:
 *OptimizeConcatenatedCNOT.py:
 *QuantumCostAnalyzer.py:
 *RemoveCNOT.py:
