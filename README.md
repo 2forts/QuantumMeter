@@ -18,8 +18,21 @@ The code is written in Python. These libraries are necessary:
 
 **How to cite:**
 
+IMPORTANT: This work is currently under review.
+
 If you are going to use all or part of this code in your own work, please quote it as follows
 
-F. Orts & R. Gil-Merino. (2024). A framework for quantum circuit optimization: comparators as a case study.
+F. Orts & R. Gil-Merino. (2024). A framework for quantum circuit optimization: comparators as a case study. IEEE transactions on very large scale integration (vlsi) systems.
 
-BibTex: (pending)
+BibTex:
+
+@article{orts2024,
+  title={A framework for quantum circuit optimization: comparators as a case study},
+  author={Orts, F and Gil-Merino, R},
+  journal={IEEE transactions on very large scale integration (vlsi) systems},
+  volume={?},
+  number={?},
+  pages={?},
+  year={2024},
+  publisher={IEEE}
+}
