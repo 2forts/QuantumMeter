@@ -14,6 +14,7 @@ The code is written in Python. These libraries are necessary:
 * [RemoveCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveCNOT.py):
 * [RemoveUnusedQubits.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveUnusedQubits.py):
 * [Example.py](https://github.com/2forts/QuantumMeter/blob/main/Example.py):
+* [LiCENSE](https://github.com/2forts/QuantumMeter/blob/main/LICENSE): Apache License 2.0.
 
 **How to cite:**
 
