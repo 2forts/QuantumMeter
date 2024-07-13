@@ -25,7 +25,7 @@ If you are going to use all or part of this code in your own work, please quote 
 F. Orts & R. Gil-Merino. (2024). A framework for quantum circuit optimization: comparators as a case study. IEEE transactions on very large scale integration (vlsi) systems.
 
 BibTex:
-
+```{bibtex}
 @article{orts2024,
   title={A framework for quantum circuit optimization: comparators as a case study},
   author={Orts, F and Gil-Merino, R},
@@ -36,3 +36,4 @@ BibTex:
   year={2024},
   publisher={IEEE}
 }
+```
