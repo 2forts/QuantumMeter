@@ -2,9 +2,11 @@
 
 **Francisco Orts and Rodrigo Gil-Merino**
 
-This repository contains all the written code for the paper "blablabla". It allows simplifying quantum circuits under certain assumptions.
+This repository contains all the written code for the paper "A framework for quantum circuit optimization: comparators as a case study", written by Francisco Orts and Rodrigo Gil-Merino. It allows simplifying quantum arithmetic circuits and, in general, any quantum circuit that computes an operation between two bit strings $A$ and $B$ whose operation is based on Boolean algebra.
 
 The code is written in Python. These libraries are necessary:
+* qiskit
+* collections 
 
 **Files included:**
 * [OptimizeConcatenatedCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/OptimizeConcatenatedCNOT.py):
@@ -17,6 +19,6 @@ The code is written in Python. These libraries are necessary:
 
 If you are going to use all or part of this code in your own work, please quote it as follows
 
-F. Orts & R. Gil-Merino. (2024). blablabla
+F. Orts & R. Gil-Merino. (2024). A framework for quantum circuit optimization: comparators as a case study.
 
-BibTex:
+BibTex: (pending)
