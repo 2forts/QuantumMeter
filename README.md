@@ -9,11 +9,12 @@ The code is written in Python. These libraries are necessary:
 * collections 
 
 **Files included:**
-* [OptimizeConcatenatedCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/OptimizeConcatenatedCNOT.py):
-* [QuantumCostAnalyzer.py](https://github.com/2forts/QuantumMeter/blob/main/QuantumCostAnalyzer.py):
-* [RemoveCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveCNOT.py):
-* [RemoveUnusedQubits.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveUnusedQubits.py):
-* [Example.py](https://github.com/2forts/QuantumMeter/blob/main/Example.py):
+* [OptimizeConcatenatedCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/OptimizeConcatenatedCNOT.py): Replaces, as specified in the paper, controlled operations that can be simplified.
+* [QuantumCostAnalyzer.py](https://github.com/2forts/QuantumMeter/blob/main/QuantumCostAnalyzer.py): Quantum circuit metric calculator.
+* [RemoveCNOT.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveCNOT.py): Replaces CNOT operations with unit operations.
+* [RemoveUnusedQubits.py](https://github.com/2forts/QuantumMeter/blob/main/RemoveUnusedQubits.py): Eliminates all unused qubits from a circuit, obtaining an equivalent and ordered one.
+* [Example.py](https://github.com/2forts/QuantumMeter/blob/main/Example.py): Example of how to use the framework operations.
+* [comparator.qasm](https://github.com/2forts/QuantumMeter/blob/main/comparator.qasm): Comparator obtained using the framework, as described in the paper.
 * [LiCENSE](https://github.com/2forts/QuantumMeter/blob/main/LICENSE): Apache License 2.0.
 
 **How to cite:**
