@@ -20,21 +20,3 @@ The code is written in Python. These libraries are necessary:
 **How to cite:**
 
 IMPORTANT: This work is currently under review.
-
-If you are going to use all or part of this code in your own work, please quote it as follows
-
-F. Orts & R. Gil-Merino. (2024). A framework for quantum circuit optimization: comparators as a case study. Quantum Machine Intelligence.
-
-BibTex:
-```{bibtex}
-@article{orts2024,
-  title={A framework for quantum circuit optimization: comparators as a case study},
-  author={Orts, F and Gil-Merino, R},
-  journal={Quantum Machine Intelligence},
-  volume={?},
-  number={?},
-  pages={?},
-  year={2024},
-  publisher={Springer}
-}
-```
