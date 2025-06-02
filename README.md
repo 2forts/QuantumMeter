@@ -1,4 +1,4 @@
-# Code for [A framework for quantum circuit optimization: comparators as a case study](https://link.springer.com/journal/42484)
+# Code for [A framework for quantum circuit optimization: comparators as a case study](https://www.hpca.ual.es/~forts/)
 
 **Francisco Orts and Rodrigo Gil-Merino**
 
