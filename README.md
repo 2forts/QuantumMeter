@@ -19,4 +19,4 @@ The code is written in Python. These libraries are necessary:
 
 **How to cite:**
 
-IMPORTANT: This work is currently under review.
+Orts, F., & Gil-Merino, R. (2025). *A Framework for Quantum Circuit Optimization: Comparators as a Case Study*. **IEEE Transactions on Computers**, 75(2), 706-719.
